@@ -1,0 +1,53 @@
+*{
+    background-color: black;
+
+}
+
+.center{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+.list{
+    text-align: center;
+}
+
+ul, ol{
+    display:inline-block;
+    text-align: left;
+    font-size: 22px;
+    color:white;
+}
+
+a:link{
+    color:white;
+    text-decoration: none;
+}
+
+a:visited{
+    color:grey;
+}
+
+a:hover{
+    color:goldenrod;
+    text-decoration: none;
+    font-size:25px
+}
+
+
+
+
+h1{
+    text-align: center;
+    color:goldenrod;
+    font-size: 40px
+}
+
+
+h2, p{
+    text-align: center;
+    color:white;
+}
